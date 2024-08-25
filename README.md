@@ -1,5 +1,11 @@
 ### Hi there, I am [Simos Athanasiadis](https://github.com/simosathan9)! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simosathan9&label=Profile%20views&color=0e75b6&style=flat" alt="simosathan9" /> </p>
+
+- 🔭 Currently working on [Blockly for Unix](https://github.com/simosathan9/blockly_unix) and [VRPDO](https://github.com/aomirolis/VRPDO)
+
+- 📫 Contact **t8210002@aueb.gr**
+
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/simos-athanasiadis-487418221/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/simos-athanasiadis-487418221/#gh-dark-mode-only)
