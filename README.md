@@ -1,4 +1,4 @@
-### Hi there, I am [Simos Athanasiadis](https://github.com/simosathan9)! 👋
+## Hi there, I am [Simos Athanasiadis](https://github.com/simosathan9)! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simosathan9&label=Profile%20views&color=0e75b6&style=flat" alt="simosathan9" /> </p>
 
