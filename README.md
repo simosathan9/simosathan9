@@ -2,9 +2,6 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://simosathan9.github.io/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://simosathan9.github.io/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/simos-athanasiadis-487418221/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/simos-athanasiadis-487418221/#gh-dark-mode-only)
 &nbsp;&nbsp;
