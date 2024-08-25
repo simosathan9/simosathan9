@@ -2,8 +2,10 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/simos-athanasiadis-487418221/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/simos-athanasiadis-487418221/#gh-dark-mode-only)
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/simos-athanasiadis-487418221/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/simos-athanasiadis-487418221/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/simos.athanasiadis/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/simos.athanasiadis/#gh-dark-mode-only)
