@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simosathan9&label=Profile%20views&color=0e75b6&style=flat" alt="simosathan9" /> </p>
 
-- 🔭 Currently working on [Blockly for Unix](https://github.com/foivospro/blockly_unix) and [VRPDO](https://github.com/aomirolis/VRPDO)
-
+- 🔭 Currently working on [Blockly for Unix(UBlocks)](https://github.com/foivospro/blockly_unix) and [VRPDO](https://github.com/aomirolis/VRPDO)
+- 👀 View UBlocks [here](https://ublocks.balab.aueb.gr/)
 - 📫 Contact **t8210002@aueb.gr**
 
 ### Connect with me:
