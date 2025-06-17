@@ -1,5 +1,10 @@
 ## Hi there, I am [Simos Athanasiadis](https://github.com/simosathan9)! 👋
 
+🔭 Currently working on
+  * [Group Maintenance Problem](https://github.com/simosathan9/GroupMaintenanceOptimization)
+  * [VRPDO](https://github.com/aomirolis/VRPDO)
+  * [OnDisplay](https://github.com/Xebit3D/Xebit3D)
+
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/simos-athanasiadis-487418221/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/simos-athanasiadis-487418221/#gh-dark-mode-only)
