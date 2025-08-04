@@ -27,5 +27,3 @@
 <br />
 <br />
 <br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simosathan9&show_icons=true&locale=en" alt="simosathan9" /></p>
