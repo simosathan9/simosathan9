@@ -28,3 +28,7 @@
 <br />
 <br />
 <br />
+
+### CV
+
+[Download my CV](./Athanasiadis_Gerasimos_CV.pdf)
