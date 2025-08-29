@@ -27,6 +27,5 @@
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <br />
 <br />
-<br />
 
-### [CV](./Athanasiadis_Gerasimos_CV.pdf)
+### [View my CV](./Athanasiadis_Gerasimos_CV.pdf)
