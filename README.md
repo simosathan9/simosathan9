@@ -2,7 +2,7 @@
 
 🔭 Currently working on
   * [Group Maintenance Problem](https://github.com/simosathan9/GroupMaintenanceOptimization)
-  * [VRPDO](https://github.com/aomirolis/VRPDO)
+  * [VRPDO](https://github.com/simosathan9/Vehicle-Routing-Problem-with-Delivery-Options)
   * [OnDisplay](https://github.com/Xebit3D/Xebit3D)
   * [Spokbee](https://spokbee.com/)
 
