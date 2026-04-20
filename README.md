@@ -4,7 +4,7 @@
   * [Group Maintenance Problem](https://github.com/simosathan9/GroupMaintenanceOptimization)
   * [VRP with Delivery Options](https://github.com/simosathan9/Vehicle-Routing-Problem-with-Delivery-Options)
   * [OnDisplay](https://github.com/Xebit3D/Xebit3D)
-  * [Spokbee](https://spokbee.com/)
+  * [Spokbee](https://spokbee.ai/)
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/simos-athanasiadis-487418221/#gh-light-mode-only)
