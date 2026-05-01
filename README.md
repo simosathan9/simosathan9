@@ -48,7 +48,7 @@ Agentic system that turns product specifications into working 3D configurators.
 <td valign="top" width="50%">
 
 #### [BillSense](https://github.com/simosathan9/NPTryHardHackathon)
-<sub><i>Winner &mdash; NPTryHard Hackathon</i></sub>
+<sub><i>1st place &mdash;  AI Hackathon Greece 2026</i></sub>
 
 AI billing agent for energy utilities &mdash; reads a bill from a photo, cross-references customer history, and returns a personalized, citation-backed analysis with consumption insights and savings recommendations.
 
